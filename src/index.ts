@@ -104,9 +104,9 @@ class ContaPoupanca implements Conta {
 
 // Criando um cliente
 const cliente1 = new Cliente(
-  "João Silva",
+  "Ozzy Silva",
   "123456789",
-  "Rua A, 123",
+  "Rua Amazonas, 123",
   "11987654321"
 );
 
